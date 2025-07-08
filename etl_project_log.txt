@@ -1,0 +1,32 @@
+2025-07-08 02:20:15,344:INFO:Starting to fetch data from the website.
+2025-07-08 02:20:15,650:ERROR:An error occurred: Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-07-08 02:22:16,875:INFO:Starting to fetch data from the website.
+2025-07-08 02:22:17,242:INFO:Found 7 tables on the page.
+2025-07-08 02:22:17,243:INFO:Starting data cleaning and transformation.
+2025-07-08 02:22:17,243:ERROR:An error occurred: 'int' object has no attribute 'strip'
+2025-07-08 02:24:21,546:INFO:Starting to fetch data from the website.
+2025-07-08 02:24:22,011:INFO:Found 7 tables on the page.
+2025-07-08 02:24:22,015:INFO:Starting data cleaning and transformation.
+2025-07-08 02:24:22,015:ERROR:An error occurred: index 1 is out of bounds for axis 0 with size 1
+2025-07-08 02:26:39,357:INFO:Starting to fetch data from the website.
+2025-07-08 02:26:39,689:INFO:Found 7 tables on the page.
+2025-07-08 02:26:39,689:INFO:Starting data cleaning and transformation.
+2025-07-08 02:26:39,695:INFO:Data transformation completed.
+2025-07-08 02:26:39,696:INFO:Saving data to JSON file: Countries_by_GDP.json
+2025-07-08 02:26:39,697:INFO:Saving data to SQLite database: World_Economies.db
+2025-07-08 02:26:39,712:INFO:Data successfully saved into table 'Countries_by_GDP'.
+2025-07-08 02:26:39,712:INFO:Running SQL query for countries with GDP > 100 billion USD.
+2025-07-08 02:26:39,715:INFO:SQL query executed and result displayed.
+2025-07-08 02:26:39,715:INFO:ETL process completed successfully.
+2025-07-08 02:29:46,207:INFO:Starting to fetch data from the website.
+2025-07-08 02:29:46,582:INFO:Found 7 tables on the page.
+2025-07-08 02:29:46,583:INFO:Starting data cleaning and transformation.
+2025-07-08 02:29:46,590:INFO:Data transformation completed.
+2025-07-08 02:29:46,590:INFO:Saving data to JSON file: Countries_by_GDP.json
+2025-07-08 02:29:46,591:INFO:Saving data to SQLite database: World_Economies.db
+2025-07-08 02:29:46,603:INFO:Data successfully saved into table 'Countries_by_GDP'.
+2025-07-08 02:29:46,603:INFO:Running SQL query for countries with GDP > 100 billion USD.
+2025-07-08 02:29:46,605:INFO:SQL query executed and result displayed.
+2025-07-08 02:29:46,605:INFO:ETL process completed successfully.
+2025-07-08 02:35:48,999:INFO:Starting to fetch data from the website.
+2025-07-08 02:35:49,332:ERROR:An error occurred: Passed header=[0,1], len of 2, but only 1 lines in file
